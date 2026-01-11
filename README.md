@@ -18,9 +18,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=radical"/>
-    </td>
+   
     <td align="center" width="50%">
       <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="280" style="border-radius:20px; box-shadow: 0px 0px 25px rgba(250,204,21,0.4);"/>
     </td>
