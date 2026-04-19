@@ -25,18 +25,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="280" style="border-radius:20px; box-shadow: 0px 0px 30px rgba(250,204,21,0.45);"/>
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" style="border-radius:20px; box-shadow: 0px 0px 30px rgba(250,204,21,0.45);"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌸 About Me
-
-```txt
-🎓 BSc in CSE — East West University  
-📊 Gently uncovering stories hidden in data  
-🧠 A mind wired for logic, a heart full of curiosity  
-✨ Passionate about Machine Learning & Data Visualization  
-💬 “In a world full of noise, I listen to data.”
